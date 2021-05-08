@@ -26,7 +26,8 @@ p {
   font-size: 2rem;
   color: #4ECCA3;
   font-family: 'Press Start 2P', cursive;
-  padding: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 img {
